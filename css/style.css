@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* line 10, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 14, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 16, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 18, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 20, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+.block_color {
+  background-color: #fff;
+}
+
+/* line 22, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 24, ../../../OneDrive/Рабочий стол/sass_test/sass/style.sass */
+.block .block_color {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
